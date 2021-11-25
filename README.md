@@ -1,2 +1,2 @@
 # Gesture_Control
-Its is real time machine learning application in which u can control VLC media Player using just your Hand Gestures 
+Its is a real time machine learning application where u can control the playback functions of the VLC media Player by using your Hand Gestures 
